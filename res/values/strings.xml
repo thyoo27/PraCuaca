@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prakiraan Cuaca</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+
+    <string-array name="daftar_prof">
+        <item>Nangroe Aceh Darusalam</item>
+        <item>Sumatera Utara</item>
+        <item>Sumatera Barat</item>
+        <item>Jambi</item>
+        <item>Bengkulu</item>
+        <item>Riau</item>
+        <item>Kepulauan Riau</item>
+        <item>Sumatera Selatan</item>
+        <item>Bangka Belitung</item>
+        <item>Lampung</item>
+        <item>Banten</item>
+        <item>DKI Jakarta</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>D.I. Yogyakarta</item>
+        <item>Jawa Timur</item>
+        <item>Bali</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Nusa Tenggara Timur</item>
+        <item>Kalimantan Barat</item>
+        <item>Kalimantan Tengah</item>
+        <item>Kalimantan Selatan</item>
+        <item>Kalimantan Timur</item>
+        <item>Gorontalo</item>
+        <item>Sulawesi Utara</item>
+        <item>Sulawesi Tengah</item>
+        <item>Sulawesi Tenggara</item>
+        <item>Sulawesi Selatan</item>
+        <item>Sulawesi Barat</item>
+        <item>Maluku</item>
+        <item>Maluku Utara</item>
+        <item>Papua Barat</item>
+        <item>Papua</item>
+    </string-array>
+
+    <string name="title_activity_home">Prakiraan Cuaca</string>
+    <string name="title_activity_detail">Prakiraan Cuaca</string>
+    <string name="profinsi">Nama Profinsi</string>
+    <string name="prof">Profinsi</string>
+    <string name="item">Item</string>
+    <string name="kab">Kabupaten</string>
+    <string name="cuaca">Cuaca</string>
+    <string name="suhu">Suhu</string>
+    <string name="kelembapan">Kelembapan</string>
+    <string name="kec_angin">Kec. Angin</string>
+    <string name="arah_angin">Arah Angin</string>
+    <string name="title_activity_detail2">Prakiraan Cuaca</string>
+    <string name="daerah">Daerah</string>
+    <string name="pagi">Pagi</string>
+    <string name="siang">Siang</string>
+    <string name="malam">Malam</string>
+    <string name="title_activity_error">Prakiraan Cuaca</string>
+    <string name="er">Tidak Dapat Terhubung ke Server..\nPastikan Koneksi Internet Anda Berjalan Dengan Benar..</string>
+    <string name="re">Return</string>
+    <string name="lg">logo</string>
+
+</resources>

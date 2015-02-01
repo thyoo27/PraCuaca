@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/kota"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kab"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/cuaca"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cuaca" />
+
+    <TextView
+        android:id="@+id/suhu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/suhu" />
+
+    <TextView
+        android:id="@+id/kelembapan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kelembapan" />
+
+    <TextView
+        android:id="@+id/kecangin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kec_angin" />
+
+    <TextView
+        android:id="@+id/arahangin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/arah_angin" />
+
+</LinearLayout>

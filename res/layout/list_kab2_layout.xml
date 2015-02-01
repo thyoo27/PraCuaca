@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/daerah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/daerah"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/pagi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pagi" />
+
+    <TextView
+        android:id="@+id/siang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/siang" />
+
+    <TextView
+        android:id="@+id/malam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/malam" />
+
+</LinearLayout>
